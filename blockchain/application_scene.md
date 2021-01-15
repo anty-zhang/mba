@@ -29,4 +29,6 @@
 
 跨链项目的代币: ATOM、DOT
 
+# reference
 
+[区块链的那些事，你知道和不知道的都在这里！](https://developer.aliyun.com/article/65264)
